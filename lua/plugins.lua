@@ -16,6 +16,8 @@ return require('packer').startup(function()
     }
   }
 
+  use 'akinsho/toggleterm.nvim'
+
   use {
     'catppuccin/nvim',
     as = 'catppuccin'
