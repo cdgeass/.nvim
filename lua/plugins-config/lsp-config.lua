@@ -1,5 +1,5 @@
 local lsp_servers = {
-  'sumneko_lua', 'gopls', 'zk'
+  'sumneko_lua', 'gopls', 'marksman'
 }
 
 require('nvim-lsp-installer').setup {
